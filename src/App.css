@@ -1,0 +1,42 @@
+body {
+    /* background-color: #212529; */
+    background-color: #262c32;
+    color: white;
+}
+
+.bg {
+    background-color: #99f307 !important;
+    font-weight: 900;
+    color: rgb(17, 19, 15) !important;
+    border: none;
+}
+
+.bg2:hover {
+    background-color: rgb(136, 97, 234) !important;
+    cursor: pointer;
+}
+
+.cb {
+    border: 1px solid white;
+    color: white;
+}
+
+.success {
+    color: rgb(22, 186, 22);
+    background-color: rgb(105, 232, 105);
+    padding: 5px;
+    height: auto;
+    width: 100%;
+    border: 2px solid rgb(19, 15, 15);
+    border-radius: 2px;
+}
+
+.error {
+    color: rgb(160, 8, 8);
+    background-color: rgb(218, 210, 212);
+    padding: 5px;
+    height: auto;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 2px;
+}
